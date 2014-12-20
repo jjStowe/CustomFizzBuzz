@@ -1,0 +1,4 @@
+C:\Users\Jeremy\Source\Repos\FizzBuzz\CustomFizzBuzzAzure\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Jeremy\Source\Repos\FizzBuzz\CustomFizzBuzzAzure\bin\Debug\ServiceDefinition.csdef
+C:\Users\Jeremy\Documents\GitHub\CustomFizzBuzz\CustomFizzBuzzAzure\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Jeremy\Documents\GitHub\CustomFizzBuzz\CustomFizzBuzzAzure\bin\Debug\ServiceDefinition.csdef
